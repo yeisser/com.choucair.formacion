@@ -1,0 +1,3 @@
+[1118/151453.797:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1123/154255.479:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1123/154255.510:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Loayza\AppData\Local\AVG\Browser\User Data\Crashpad\attachments\73b3aace-4774-4072-926d-ef7cf3c7cebe: El sistema no puede encontrar la ruta especificada. (0x3)
